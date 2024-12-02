@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Insightify</string>
+    <string name="api_key">9fdd1afab70248758b318a2069ef85ca</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="Password" />
+    <string name="Login" />
+    <string name="Email" />
+
+</resources>
